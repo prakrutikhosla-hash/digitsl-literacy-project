@@ -36,7 +36,9 @@ This repository contains my Digital Literacy Portfolio, developed as part of my 
 ### Module 3: Coding & Collaboration
 
 • Task: Completed a beginner coding challenge and developed a digital literacy quiz.
+
 • Quiz Link: https://docs.google.com/forms/d/e/1FAIpQLSfviD3COoAZLND9BYjEYjU2gkt215xbeBA-8r0nC0bPFkWzzQ/viewform?usp=publish-editor
+
 • Folder: task-3-platforms/ .
 
 ### Module 4: Email Etiquette & Social Media
